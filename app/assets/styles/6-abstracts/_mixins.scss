@@ -1,0 +1,10 @@
+/* Md. Mehadi Hasan Shimul */
+/* All Mixins Code */
+
+@mixin clearfix{
+    &::after{
+        content: "";
+        clear: both;
+        display: table;
+    }
+}

@@ -1,0 +1,86 @@
+@charset "UTF-8";
+/*
+MD. MEHADI HASAN SHIMUL
+Main SCSS File
+
+sass/
+|
+|– abstracts/
+|   |– _variables.scss    # Sass Variables
+|   |– _functions.scss    # Sass Functions
+|   |– _mixins.scss       # Sass Mixins
+|   |– _placeholders.scss # Sass Placeholders
+|
+|– base/
+|   |– _reset.scss        # Reset/normalize
+|   |– _typography.scss   # Typography rules
+|   …                     # Etc.
+|
+|– components/
+|   |– _buttons.scss      # Buttons
+|   |– _carousel.scss     # Carousel
+|   |– _cover.scss        # Cover
+|   |– _dropdown.scss     # Dropdown
+|   …                     # Etc.
+|
+|– layout/
+|   |– _navigation.scss   # Navigation
+|   |– _grid.scss         # Grid system
+|   |– _header.scss       # Header
+|   |– _footer.scss       # Footer
+|   |– _sidebar.scss      # Sidebar
+|   |– _forms.scss        # Forms
+|   …                     # Etc.
+|
+|– pages/
+|   |– _home.scss         # Home specific styles
+|   |– _contact.scss      # Contact specific styles
+|   …                     # Etc.
+|
+|– themes/
+|   |– _theme.scss        # Default theme
+|   |– _admin.scss        # Admin theme
+|   …                     # Etc.
+|
+|– vendors/
+|   |– _bootstrap.scss    # Bootstrap
+|   |– _jquery-ui.scss    # jQuery UI
+|   …                     # Etc.
+|
+`– main.scss              # Main Sass file
+
+// Normalize CSS
+// @import "normalize.css";
+*/
+/* Md. Mehadi Hasan Shimul */
+/* Function code must be here */
+/* Md. Mehadi Hasan Shimul */
+/* All Mixins Code */
+/* Md. Mehadi Hasan Shimul */
+/* All variable must be here */
+/* Md. Mehadi Hasan Shimul */
+/* Extend code must be here */
+/* Md. Mehadi Hasan Shimul */
+/* Md. Mehadi Hasan Shimul */
+/* Base File Codes */
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  box-sizing: border-box; }
+
+/* Md. Mehadi Hasan Shimul */
+h1 {
+  color: lightblue; }
+
+/* Md. Mehadi Hasan Shimul */
+/* Md. Mehadi Hasan Shimul */
+/* Md. Mehadi Hasan Shimul */
+/* Md. Mehadi Hasan Shimul */
